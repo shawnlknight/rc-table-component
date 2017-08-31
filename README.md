@@ -2,7 +2,7 @@
 
 Using [rc-table component](https://github.com/react-component/table)
 
-#### To run
+## Development
 ```
 $ git clone git@github.com:shawnlknight/rc-table-component.git
 $ cd rc-table-component
