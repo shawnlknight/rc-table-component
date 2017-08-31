@@ -1,0 +1,5 @@
+@import "tachyons";
+
+.rc-table table {
+  border-collapse: collapse !important;
+}
